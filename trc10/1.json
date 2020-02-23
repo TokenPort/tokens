@@ -5,7 +5,7 @@
 	"description": "Token of gratitude to the community for participating in TokenPort (TPORT) initiatives.  A token can only for obtained for voting in our service. Also , all our sponsors, who kindly support development of the project with their donations, also receive this token.  Our goal is to make TokenPort more comfortable and useful for daily use.  For this, the list of services and functions will be gradually expanded, but some functions will be available only to TPORT token holders.",
 	"utility": "TPORT токен will allow its holders to fully manage their profile on TokenPort: connect the necessary add-ons, use paid features, order information subscriptions, take part in voting on adding new tokens to the list.",
 	"max_supply": "10,000,000",
-	"circulating_supply": "5,000,000",
+	"circulating_supply": "10,000,000",
 	"circulating_url": "",
 	"consensus": "DPOS",
 	"website": "https://tokenport.org/",
@@ -24,11 +24,11 @@
 	"youtube": "https://www.youtube.com/channel/UCeXxrscMQMu5iGEjDhcD5_Q/about?view_as=subscriber",
 	"",
 	"top_6_features": [
-		"Average blocktime of 3 seconds",
-		"Total supply of 10 million TPORT",
-		"Consensus via Delegate Proof of Stake (Fast Paxos)",
+		"Limited supply",
+		"The Tport allows you to increase the functionality of the platform for its holders",
+		"Token holders get the opportunity to participate in limited airdrops",
 		"High bandwidth, averaging 2000 Transactions per Second",
-		"Limited TRX price control via centralized burn or minting",
+		"Token holders have access to unique statistical data provided by the platform.",
 		"Scalability design from inception."
 	]
 }
